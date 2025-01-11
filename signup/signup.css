@@ -1,0 +1,11 @@
+.box{
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+    width: 23%;
+    
+    margin-top: 10%;
+    margin-left: 35%;
+    background-color: brown;
+    padding: 4%;
+}
