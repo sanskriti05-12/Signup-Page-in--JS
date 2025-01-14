@@ -2,10 +2,30 @@
     align-items: center;
     justify-content: center;
     height: 90%;
-    width: 23%;
+    width: 20%;
     
-    margin-top: 10%;
+    margin-top: 7%;
     margin-left: 35%;
-    background-color: rgb(192, 35, 35);
+    background-color: rgb(35, 155, 192);
     padding: 4%;
+    border: 7px solid rgb(6, 112, 252);
+}
+body{
+    background-color: black;
+}
+#btn{
+    margin: 15%;
+    background-color: #f6f9fa;
+    font-size: 23px;
+    color: rgb(10, 10, 10);
+    border: none;
+    margin-left: 30%;
+    
+}
+/* .content{
+    padding: 10%;
+    margin-bottom: 30%;
+} */
+.i{
+    margin-bottom: 3%;
 }
